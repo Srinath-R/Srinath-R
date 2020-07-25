@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:
   
-  :email: : mailto:srinath141099@gmail.com               
+  :email: : [srinath141099@gmail.com](mailto:srinath141099@gmail.com)               
   :briefcase: : https://www.linkedin.com/in/srinath-r/
 
 
