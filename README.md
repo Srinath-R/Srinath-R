@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<body>
 <!-- Default Statcounter code for Github Profile https://github.com/Srinath-R
 -->
 <script type="text/javascript">
@@ -31,3 +31,4 @@ document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
 src="https://c.statcounter.com/12365404/0/b1537163/0/" alt="Web Analytics Made
 Easy - StatCounter"></div></noscript>
 <!-- End of Statcounter Code -->
+</body>
