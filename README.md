@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Srinath-R&color=brightgreen&style=flat-square)
 
 <!--
 **Srinath-R/Srinath-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
