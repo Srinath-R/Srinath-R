@@ -2,7 +2,7 @@
 
 
 
-**Srinath** is a geek, developer and senior computer science undergrad.:computer: He loves collaborating!:smiley:
+**Srinath** is a geek, developer and senior computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  He loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&theme=dark&layout=compact)](https://github.com/Srinath-R/github-readme-stats)
