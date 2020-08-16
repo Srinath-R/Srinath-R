@@ -4,6 +4,13 @@
 
 **Srinath** is a geek, developer and senior computer science undergrad.:computer: He loves collaborating!:smiley:
 
+<a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&theme=dark&hide=html,dockerfile" alt="Srinath R" />
+</a>
+
+[![Srinath's github stats](https://github-readme-stats.vercel.app/api?username=Srinath-R&show_icons=true&theme=monokai)](https://github.com/Srinath-R/github-readme-stats)
+
+
 - 📫 How to reach me:
   
   :email: : [srinath141099@gmail.com](mailto:srinath141099@gmail.com)               
