@@ -5,11 +5,11 @@
 **Srinath** is a geek, developer and senior computer science undergrad.:computer: He loves collaborating!:smiley:
 
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&count_private=true&theme=dark&hide=html,dockerfile" alt="Srinath R" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&include_all_commits=true&count_private=true&theme=dark&hide=html,dockerfile" alt="Srinath R" />
 </a>
 
-[![Srinath's github stats](https://github-readme-stats.vercel.app/api?username=Srinath-R&count_private=true&show_icons=true&theme=monokai)](https://github.com/Srinath-R/github-readme-stats)
-
+[![Srinath's github stats](https://github-readme-stats.vercel.app/api?username=Srinath-R&include_all_commits=true&count_private=true&show_icons=true&theme=monokai)](https://github.com/Srinath-R/github-readme-stats)
+&ensp
 
 - 📫 How to reach me:
   
