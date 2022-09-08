@@ -2,7 +2,7 @@
 
 
 
-**Srinath** is a technophile, developer and senior computer science undergrad.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>  
+**Srinath** is a technophile, developer who works as Software Engineer at Cisco.  
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&theme=dark&layout=compact)](https://github.com/Srinath-R/github-readme-stats)
