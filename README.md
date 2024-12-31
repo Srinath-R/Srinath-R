@@ -4,12 +4,12 @@
 
 **Srinath** is a technophile, developer who works as Software Engineer at Cisco.  
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&theme=dark&layout=compact)](https://github.com/Srinath-R/github-readme-stats)
--->
 
+<!--
 [![Srinath's github stats](https://github-readme-stats.vercel.app/api?username=Srinath-R&include_all_commits=true&count_private=true&show_icons=true&theme=monokai)](https://github.com/Srinath-R/github-readme-stats)
-
+-->
 He loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 - 📫 How to reach him:
   
