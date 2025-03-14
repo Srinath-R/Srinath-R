@@ -2,7 +2,7 @@
 
 
 
-**Srinath** is a technophile working as a Cisco Software Engineer.
+**Srinath** is a technophile working as a Software Engineer at Cisco.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&theme=dark&layout=compact)](https://github.com/Srinath-R/github-readme-stats)
