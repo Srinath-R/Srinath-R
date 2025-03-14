@@ -2,7 +2,7 @@
 
 
 
-**Srinath** is a technophile, developer who works as Software Engineer at Cisco.  
+**Srinath** is a technophile working as a Cisco Software Engineer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath-R&theme=dark&layout=compact)](https://github.com/Srinath-R/github-readme-stats)
@@ -13,7 +13,7 @@
 He loves collaborating!<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 - 📫 How to reach him:
   
-  :email: : [srinath141099@gmail.com](mailto:srinath141099@gmail.com)               
+  :email: : [work.srinathr@gmail.com](mailto:work.srinathr@gmail.com)               
   :briefcase: : https://www.linkedin.com/in/srinath-r/
 
 
